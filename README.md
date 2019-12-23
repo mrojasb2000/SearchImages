@@ -1,2 +1,2 @@
-# SearchImages
-React Search Images Application
+# React Images Search from Pixabay.com
+First React application
